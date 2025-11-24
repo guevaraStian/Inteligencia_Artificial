@@ -15,8 +15,8 @@ Luego de descargar git, Los comandos para acceder al repositorio son los siguien
 ```Terminal de comandos
 git --version
 git init
-git clone https://github.com/guevaraStian/Inteligencia_Artificial.git
-cd Inteligencia_Artificial
+git clone https://github.com/guevaraStian/Inteligencia_Artificial_IA.git
+cd Inteligencia_Artificial_IA
 git push origin master
 ```
 ---------
