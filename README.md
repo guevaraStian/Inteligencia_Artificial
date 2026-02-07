@@ -19,6 +19,9 @@ git clone https://github.com/guevaraStian/Inteligencia_Artificial_IA.git
 cd Inteligencia_Artificial_IA
 git push origin master
 ```
+Luego de descargar el repositorio accedemos a su carpeta y dependiendo del lenguaje de progamacion que vaya a revisar, hace los siguientes pasos primero.
+
+
 ---------
 
 
