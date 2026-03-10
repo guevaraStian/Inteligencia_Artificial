@@ -10,7 +10,7 @@
 
 ----------------
 
-Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+Luego de descargar git, se procede a descargar los programas dando click en el boton verde o con los comandos para acceder al repositorio son los siguientes.
 
 ```Terminal de comandos
 git --version
