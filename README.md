@@ -1,6 +1,6 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  INTELIGENCIA ARTIFICIAL </h1> 
-<h2 style="font-size: 3em; color: #FF0000;">•  Aprendizaje Automatico ML, Inteligencia Artificial Generativa IAG, Procesamiento Lenguaje Natural NLP, Visión Artificial CV </h2> 
+<h2 style="font-size: 3em; color: #FF0000;">•  Aprendizaje Automatico ML, Inteligencia Artificial Generativa IAG, Procesamiento Lenguaje Natural NLP, Visión Artificial CV , En diferentes lenguajes de programacion </h2> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
