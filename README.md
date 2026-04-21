@@ -9,7 +9,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 ----------------
-
+En este repositorio hay varios programas relacionados a la inteligencia artificial, desde sus diferentes areas de estudio.
 Luego de descargar git, se procede a descargar los programas dando click en el boton verde o con los comandos para acceder al repositorio son los siguientes.
 
 ```Terminal de comandos
