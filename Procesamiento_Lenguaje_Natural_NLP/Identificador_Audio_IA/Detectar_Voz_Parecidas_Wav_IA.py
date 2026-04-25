@@ -4,7 +4,8 @@
 # Usando la librerias numpy, librosa y sus datos
 # En el terminal de comandos importar librerias con el comando PIP 
 # pip install speechbrain torch torchaudio
-
+# pip 25.1.1
+# Python 3.13.1
 from resemblyzer import VoiceEncoder, preprocess_wav
 import numpy as np
 import librosa

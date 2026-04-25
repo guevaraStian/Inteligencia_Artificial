@@ -1,4 +1,7 @@
-# Ejemplo de red neuronal sencilla
+# El siguiente software sirve para crear una red neuronal sencilla con datos de tipo de flor
+# se consulta una base de datos de informacion de flores y se pronostica cual sera el siguiente dato
+# Usando la librerias pandas, seaborn y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
 # pip install pandas seaborn
 # pip 25.1.1
 # Python 3.13.1

@@ -1,6 +1,8 @@
-# Ejemplo de red neuronal con datos de crimenes por estados de USA DE 1995
-# pip install ucimlrepo
-# pip install scikit-learn
+# El siguiente software sirve para crear una red neuronal con los datos de crimenes en USA 1995
+# Se consulta una base de datos con crimenes en USA 1995 por estado y realiza pronostico con IA
+# Usando la librerias ucimlrepo, scikit-learn y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install ucimlrepo scikit-learn
 # pip 25.1.1
 # Python 3.13.1
 

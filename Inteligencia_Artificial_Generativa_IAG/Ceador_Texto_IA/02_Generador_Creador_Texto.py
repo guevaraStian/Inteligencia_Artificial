@@ -1,4 +1,11 @@
-# Generador.py
+# El siguiente software sirve para crear texto aleatorio basandose en una base de datos
+# Se ingresa una base de datos de texto y este crea historias aleatorias
+# Usando la librerias torch, Pillow, bytesio y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install torch 
+# pip 25.1.1
+# Python 3.13.1
+
 import torch
 from Model import TextGenModel
 from dataset import TextDataset

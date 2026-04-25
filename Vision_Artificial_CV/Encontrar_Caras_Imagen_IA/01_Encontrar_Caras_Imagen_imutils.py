@@ -5,7 +5,8 @@
 # pip install numpy opencv-python dlib imutils
 # Es necesario descargar de la pagina https://www.microsoft.com/es-es/download/details.aspx?id=48137
 # Es necesario descargar de pagina https://visualstudio.microsoft.com/es/downloads/  y descargar el visual
-
+# pip 25.1.1
+# Python 3.13.1
 from imutils import face_utils
 import dlib
 import cv2

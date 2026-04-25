@@ -1,8 +1,9 @@
-
-# En el siguiente codigo se muestra la creacion de una red neuronal con lenguaje ruby
-# Con perceptrones que indican las iteraciones de la red neuronal }
+# El siguiente software crea una red neuronal co el lenguaje ruby y la base de datos Ruby-Fann
+# se entrena el software con perceptrones que indican las iteraciones de la red neuronal 
+# Usando la librerias ruby-fann y sus datos
 # bundle init
 # gem install ruby-fann
+
 require 'ruby-fann'
 require 'net/http'
 require 'json'

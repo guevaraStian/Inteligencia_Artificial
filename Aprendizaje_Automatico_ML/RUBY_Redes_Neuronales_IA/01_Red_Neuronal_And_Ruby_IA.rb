@@ -1,6 +1,5 @@
-
-# En el siguiente codigo se muestra la creacion de una red neuronal con lenguaje ruby
-# Con perceptrones que indican las iteraciones de la red neuronal 
+# El siguiente software crea una red neuronal co el lenguaje ruby
+# se entrena el software con perceptrones que indican las iteraciones de la red neuronal 
 
 class Perceptron
   attr_reader :weights, :bias

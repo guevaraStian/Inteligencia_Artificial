@@ -3,7 +3,8 @@
 # Usando la librerias transformers, torch y sus datos
 # En el terminal de comandos importar librerias con el comando PIP 
 # pip install transformers torch
-
+# pip 25.1.1
+# Python 3.13.1
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 

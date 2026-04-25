@@ -1,3 +1,10 @@
+# El siguiente software sirve para consultar unos datos de XBT y organizar unos datos
+# Se hace una consulta a una API de bolsa y se organizan los datos
+# Usando la librerias requests, json y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install requests json
+# pip 25.1.1
+# Python 3.13.1
 import requests
 import json
 

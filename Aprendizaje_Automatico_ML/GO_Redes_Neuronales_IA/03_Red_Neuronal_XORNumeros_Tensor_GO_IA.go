@@ -1,4 +1,4 @@
-// Ejemplo sencillo de red nuronal con 4 ejemplos de 2 caracteristicas
+// El siguiente codigo crea una red neuronal con 4 ejemplos de 2 caracteristicas
 // Tambien se usaron 2 neuronas para el procesamiento
 // Se importan librerias como math para la colicion de neuronas
 // go get -u gorgonia.org/gorgonia

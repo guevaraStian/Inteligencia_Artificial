@@ -3,7 +3,8 @@
 # Usando la librerias cv2 y sus datos
 # En el terminal de comandos importar librerias con el comando PIP 
 # pip install numpy opencv-python
-
+# pip 25.1.1
+# Python 3.13.1
 import cvlib as cv
 import cv2
 

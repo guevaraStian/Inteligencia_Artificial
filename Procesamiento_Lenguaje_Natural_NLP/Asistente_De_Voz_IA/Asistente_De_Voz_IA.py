@@ -3,7 +3,8 @@
 # Usando la librerias pipwin, speechrecognition y sus datos
 # En el terminal de comandos importar librerias con el comando PIP 
 # pip install pipwin speechrecognition
-
+# pip 25.1.1
+# Python 3.13.1
 import pyaudio
 import webbrowser
 import speech_recognition as sr

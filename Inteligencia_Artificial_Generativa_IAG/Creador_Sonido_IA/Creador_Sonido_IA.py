@@ -1,9 +1,10 @@
-# pip install simpleaudio music21 numpy 
-# pip install numpy requests pydub
-
-# pip 25.2 pip 25.2 
-# generador_musica_midi_mutopia.py
-
+# El siguiente software sirve para crear un sonido basandose en un grupo de sonidos
+# Se ingresa 1 audio con diferentes sonidos y este se vuelve en audio aleatorio con IA
+# Usando la librerias torch, scipy, urllib y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install torch scipy urllib
+# pip 25.1.1
+# Python 3.13.1
 import os
 import urllib.request
 import numpy as np

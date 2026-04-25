@@ -3,7 +3,8 @@
 # Usando la librerias pyttsx3 y sus datos
 # En el terminal de comandos importar librerias con el comando PIP 
 # pip install pyttsx3
-
+# pip 25.1.1
+# Python 3.13.1
 import pyttsx3
 
 def convertir_texto_a_mp3(texto, nombre_archivo_mp3):

@@ -4,7 +4,8 @@
 # Usando la librerias sklearn, pandas y sus datos
 # En el terminal de comandos importar librerias con el comando PIP 
 # pip install scikit-learn pandas
-
+# pip 25.1.1
+# Python 3.13.1
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB

@@ -1,8 +1,12 @@
-
+# El siguiente software sirve para descargar una base de datos con grandes cantidades de texto
+# se descarga la base de datos con el fin de entrenar una IA
+# Usando la librerias datasets, transformers y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
 # pip install datasets transformers
+# pip 25.1.1
+# Python 3.13.1
 import os
 from datasets import load_dataset
-
 
 # 1) SELECCIONA AQUÍ EL DATASET A DESCARGAR
 # Opciones recomendadas:

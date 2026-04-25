@@ -1,8 +1,12 @@
-# Ejemplo de prediccion de red neuronal con datos de tasa de cambio de moneda Colombiana
-# Se instalan las librerias necesarias
+# El siguiente software sirve para crear una red neuronal con los datos de tasa de cambio de la moneda colombiana
+# Se consulta una base de datos con la tasa de cambio y se crean propnosticos
+# Usando la librerias pandas, numpy, matplotlib, scikit-learn, openpyxl y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
 # pip install pandas numpy matplotlib scikit-learn openpyxl
 # pip 25.1.1
 # Python 3.13.1
+
+
 import pandas as pd
 import numpy as np
 from sklearn.neural_network import MLPRegressor

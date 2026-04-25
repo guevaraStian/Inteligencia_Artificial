@@ -1,9 +1,10 @@
-# En el siguiente codigo se muestra como se puede consultar la
-# IA de google para crear imagenes con una descripcion de texto,
-# Con una llave ue deje acceder a esa IA
-# pip install google-genes
-# pip install Pillow
-# pip install bytesio
+# El siguiente software sirve para crear imagenes con una descripcion de texto con IA
+# Se ingresa 1 texto que describe una imagen y la IA la crea
+# Usando la librerias google-genes, Pillow, bytesio y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install google-genes Pillow bytesio
+# pip 25.1.1
+# Python 3.13.1
 
 from google import genai
 from google.genai import types

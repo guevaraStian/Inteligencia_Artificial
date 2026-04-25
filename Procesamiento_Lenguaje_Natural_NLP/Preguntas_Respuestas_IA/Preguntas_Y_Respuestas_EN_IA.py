@@ -3,6 +3,8 @@
 # Usando la librerias openai y sus datos
 # En el terminal de comandos importar librerias con el comando PIP 
 # pip install openai
+# pip 25.1.1
+# Python 3.13.1
 import openai
 
 openai.api_key = "Para usar esta aplicacion hay que pedirle a chatgpt una llave ponerla aqui"

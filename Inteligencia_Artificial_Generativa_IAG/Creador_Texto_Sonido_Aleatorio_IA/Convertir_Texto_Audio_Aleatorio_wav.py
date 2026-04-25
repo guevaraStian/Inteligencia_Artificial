@@ -1,7 +1,10 @@
-
-# ----------------------------
-# pip install openai-whisper edge-tts
-# ----------------------------
+# El siguiente software sirve para convertir un texto en audio aleatorio 
+# Se ingresa 1 palabras y este se vuelve en audio de voz con IA
+# Usando la librerias whisper, pyttsx3, edge_tts y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install whisper pyttsx3 edge_tts
+# pip 25.1.1
+# Python 3.13.1
 import whisper
 import random
 import asyncio

@@ -1,4 +1,10 @@
-# Entrenamiento.py
+# El siguiente software sirve para entrenar el software con la base de datos
+# coge una base de datos y entrena el software con esta informacion
+# Usando la librerias torch, tqdm y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install torch tqdm
+# pip 25.1.1
+# Python 3.13.1
 import torch
 from torch.utils.data import DataLoader
 from dataset import TextDataset

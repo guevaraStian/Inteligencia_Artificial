@@ -1,6 +1,7 @@
+# El siguiente software crea una red neuronal co el lenguaje ruby y la base de datos IrisCsv
+# se entrena el software con perceptrones que indican las iteraciones de la red neuronal 
+# Usando la librerias csv y sus datos
 
-# En el siguiente codigo se muestra la creacion de una red neuronal con lenguaje ruby
-# Con perceptrones que indican las iteraciones de la red neuronal 
 require 'csv'
 
 # Funciones de activación
