@@ -1,6 +1,6 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  INTELIGENCIA ARTIFICIAL </h1> 
-<h2 style="font-size: 3em; color: #FF0000;">•  Aprendizaje Automatico ML, Inteligencia Artificial Generativa IAG, Procesamiento Lenguaje Natural NLP, Visión Artificial CV </h2> 
+<h2 style="font-size: 3em; color: #FF0000;">•  Aprendizaje Automatico ML, Inteligencia Artificial Generativa IAG, Procesamiento Lenguaje Natural NLP, Visión Artificial CV , En diferentes lenguajes de programacion </h2> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -9,8 +9,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 ----------------
-
-Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+En este repositorio hay varios programas relacionados a la inteligencia artificial, desde sus diferentes areas de estudio.
+Luego de descargar git, se procede a descargar los programas dando click en el boton verde o con los comandos para acceder al repositorio son los siguientes.
 
 ```Terminal de comandos
 git --version
@@ -19,6 +19,9 @@ git clone https://github.com/guevaraStian/Inteligencia_Artificial_IA.git
 cd Inteligencia_Artificial_IA
 git push origin master
 ```
+Luego de descargar el repositorio accedemos a su carpeta y dependiendo del lenguaje de progamacion que vaya a revisar, hace los siguientes pasos primero.
+
+
 ---------
 
 
