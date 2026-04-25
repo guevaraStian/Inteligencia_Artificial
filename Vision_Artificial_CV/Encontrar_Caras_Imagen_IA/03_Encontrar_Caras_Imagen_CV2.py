@@ -1,3 +1,9 @@
+# El siguiente software sirve para encontrar caras dentro de una imagen
+# el software muestra una imagen con un cuadro en cada cara 
+# Usando la librerias cv2 y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install opencv-python
+
 import cv2
 
 # Cargar el clasificador preentrenado de Haar para detección de rostros

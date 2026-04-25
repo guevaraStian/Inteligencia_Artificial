@@ -1,5 +1,10 @@
-# Primero se instala scikit-learn pandas con el siguiente comando "pip install scikit-learn pandas"
-# Luego de bajar librerias, las importamos
+
+# El siguiente software sirve para identificar en un texto de que categoria es
+# Se ingresan unas palabras las cuales estan relacionadas a un tema de escritura
+# Usando la librerias sklearn, pandas y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install scikit-learn pandas
+
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB

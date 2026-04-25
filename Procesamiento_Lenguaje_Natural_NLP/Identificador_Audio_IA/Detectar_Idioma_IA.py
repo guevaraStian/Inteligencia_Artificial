@@ -1,9 +1,8 @@
-
-# En el siguiente codigo se muestra un
-# Detección de idioma con la libreria de IA Transformers
-# Primero instalamos las librerias necesarias
+# El siguiente software sirve para detectar un idioma en un audio
+# Se ingresa 1 audio en archivos archivos y se detecta el idioma usando IA
+# Usando la librerias transformers, torch y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
 # pip install transformers torch
-
 
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch

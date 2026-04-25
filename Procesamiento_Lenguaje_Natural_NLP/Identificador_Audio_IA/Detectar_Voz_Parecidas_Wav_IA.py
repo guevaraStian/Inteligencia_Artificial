@@ -1,8 +1,8 @@
 
-# En el siguiente codigo se muestra un
-# Detección de la similitud entre 2 audios con voces,
-#  con la libreria de IA Transformers
-# Primero instalamos las librerias necesarias
+# El siguiente software sirve para detectar si son iguales 2 voces
+# Se ingresan 2 audios en archivos diferentes y se compara las voces si son iguales
+# Usando la librerias numpy, librosa y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
 # pip install speechbrain torch torchaudio
 
 from resemblyzer import VoiceEncoder, preprocess_wav

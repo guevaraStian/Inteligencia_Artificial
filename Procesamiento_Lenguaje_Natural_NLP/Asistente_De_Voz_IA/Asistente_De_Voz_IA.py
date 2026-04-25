@@ -1,6 +1,9 @@
-#pip install pipwin
-#pip install speechrecognition 
-#pip install --upgrade speechrecognition
+# El siguiente software sirve para convertir un texto a un audio de voz con IA
+# Se ingresa 1 archivo de texto y este se vuelve en audio de voz con IA
+# Usando la librerias pipwin, speechrecognition y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install pipwin speechrecognition
+
 import pyaudio
 import webbrowser
 import speech_recognition as sr

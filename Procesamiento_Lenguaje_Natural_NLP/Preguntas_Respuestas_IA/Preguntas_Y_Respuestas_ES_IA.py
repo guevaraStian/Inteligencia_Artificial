@@ -1,4 +1,9 @@
-#Primero se descarga la libreria open ai con el siguiente comando  "pip install openai"
+
+# El siguiente software sirve para recibir preguntas y dar respuestas en indioma español
+# el software muestra cada respuesta con datos de inteligencia artificial
+# Usando la librerias openai y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install openai
 import os
 import openai
 import googletrans

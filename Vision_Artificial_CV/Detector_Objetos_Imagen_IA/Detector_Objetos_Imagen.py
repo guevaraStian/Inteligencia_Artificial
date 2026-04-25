@@ -1,3 +1,9 @@
+# El siguiente software sirve para encontrar objetos en una imagen
+# el software muestra cada objeto y que tipo de objeto es
+# Usando la librerias cv2 y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install numpy opencv-python matplotlib
+
 import cv2
 import matplotlib.pyplot as plt
 import cvlib as cv 

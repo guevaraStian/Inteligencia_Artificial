@@ -1,4 +1,9 @@
-# import las librerias necesarias con "pip install opencv-python cmake dlib"
+# El siguiente software sirve para encontrar caras dentro de una imagen
+# el software muestra una imagen con un cuadro en cada cara 
+# Usando la librerias cv2, numpy y dlib y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install opencv-python cmake dlib
+
 import cv2
 from numpy as np
 import dlib

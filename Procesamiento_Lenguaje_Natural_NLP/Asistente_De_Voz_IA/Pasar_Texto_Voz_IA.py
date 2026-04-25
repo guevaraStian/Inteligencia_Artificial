@@ -1,5 +1,9 @@
-#Software que pasa de texto a voz
-#Primero ejecutamos la descarga de librerias pip install pyttsx3
+# El siguiente software sirve para convertir un texto a un audio de voz con IA
+# Se ingresa 1 archivo de texto y este se vuelve en audio de voz con IA
+# Usando la librerias pyttsx3 y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install pyttsx3
+
 import pyttsx3
 
 def convertir_texto_a_mp3(texto, nombre_archivo_mp3):

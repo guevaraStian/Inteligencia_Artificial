@@ -1,4 +1,8 @@
-# author: Arun Ponnusamy
+# El siguiente software sirve para encontrar caras se vean desde una camara
+# el software muestra un video actual con un cuadro en cada cara 
+# Usando la librerias cv2 y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install numpy opencv-python
 
 import cvlib as cv
 import cv2

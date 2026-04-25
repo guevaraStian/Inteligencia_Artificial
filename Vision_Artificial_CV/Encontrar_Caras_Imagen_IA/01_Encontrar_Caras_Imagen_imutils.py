@@ -1,6 +1,10 @@
-#Es necesario descargar de la pagina https://www.microsoft.com/es-es/download/details.aspx?id=48137
-#Es necesario descargar de pagina https://visualstudio.microsoft.com/es/downloads/  y descargar el visual
-#Luego ejecutar la descarga de librerias pip install numpy opencv-python dlib imutils
+# El siguiente software sirve para encontrar caras dentro de una imagen
+# el software muestra una imagen con un cuadro en cada cara 
+# Usando la librerias cv2, numpy y dlib y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install numpy opencv-python dlib imutils
+# Es necesario descargar de la pagina https://www.microsoft.com/es-es/download/details.aspx?id=48137
+# Es necesario descargar de pagina https://visualstudio.microsoft.com/es/downloads/  y descargar el visual
 
 from imutils import face_utils
 import dlib
