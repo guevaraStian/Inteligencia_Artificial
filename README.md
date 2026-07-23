@@ -10,6 +10,29 @@
 
 ----------------
 En este repositorio hay varios programas relacionados a la inteligencia artificial, desde sus diferentes areas de estudio.
+
+
+
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
+
+
+
 Luego de descargar git, se procede a descargar los programas dando click en el boton verde o con los comandos para acceder al repositorio son los siguientes.
 
 ```Terminal de comandos
