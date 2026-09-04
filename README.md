@@ -9,7 +9,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 ----------------
-En este repositorio hay varios programas relacionados a la inteligencia artificial, desde sus diferentes areas de estudio.
+En este repositorio hay varios programas relacionados a la inteligencia artificial y sus diferentes areas de trabajo, desde sus diferentes areas de estudio.
 
 
 
